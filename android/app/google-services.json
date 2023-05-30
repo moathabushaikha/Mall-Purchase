@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190931806902",
+    "project_id": "invoice-builder-fc1b3",
+    "storage_bucket": "invoice-builder-fc1b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190931806902:android:7be288dd0acc6cd8509417",
+        "android_client_info": {
+          "package_name": "com.example.invoice_builder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALTQxNblqTi80kjEYXfyUMe24VMXuXi5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
